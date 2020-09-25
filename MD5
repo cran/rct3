@@ -1,0 +1,14 @@
+5a95b375a8062717f137b443ef0100ec *DESCRIPTION
+fd1cbacb67cfbecc05d96814f5d2ea62 *NAMESPACE
+1c6e1d84e35a7174c4ed60c7ffbeeb6b *NEWS.md
+6a7c73f96cbd4d4df8b237eb88814fb0 *R/print.rct3.R
+3dde4c01c908cb9bb6b483f0f545c2ca *R/rct3-package.R
+d3e4a9cd77c245af6cefac870b924374 *R/rct3.R
+2f0935290d6ebd7c24ff46b0f1faad8c *R/recdata.R
+dd1c5a9109f8e2d47c6c7797c49ca2a4 *R/summary.rct3.R
+21dfbb28e706c556663f6b2df976c3d9 *data/recdata.R
+4dcf29e848744d80a2345dca8534bfb2 *man/print.rct3.Rd
+92189a307a70b0b754f3071c5b215529 *man/rct3-package.Rd
+8db8eac1c5c9811760891e8fcf362988 *man/rct3.Rd
+3cf6a1fe24de3d501d2ae13cb003f031 *man/recdata.Rd
+4ce489ece621dbfd20730ed497c9d794 *man/summary.rct3.Rd
